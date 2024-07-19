@@ -22,7 +22,7 @@ export const workExp = [
     tenure: "November 2023 - June 2024",
     role: "Full Stack Web Developer",
     detail:
-      "completed the MERN stack Web Developer course at Kgisl Microcollege, enhancing my skills in creating captivating user experiences and converting design concepts into responsive websites. With a passion for innovation, I am ready to collaborate on impactful projects that push boundaries and deliver outstanding digital solutions.",
+      "Completed the MERN stack Web Developer course at KGisl Microcollege, honing skills in creating responsive websites and engaging user experiences. Ready for innovative projects that deliver exceptional digital solutions.",
   },
   {
     place: "Frontend Web Devlopment - Relevel unacademy",
