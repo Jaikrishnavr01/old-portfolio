@@ -79,7 +79,24 @@
             }
         }
 
-
+        .iconContainer {
+            display: flex;
+            gap: 1rem; /* Adjust the gap between icons as needed */
+        }
+        
+        .iconContainer a {
+            color: #000; /* Default icon color */
+            transition: color 0.3s ease;
+        }
+        
+        .iconContainer a:hover {
+            color: #0073b1; /* LinkedIn blue color on hover */
+        }
+        
+        .iconContainer a:nth-child(2):hover {
+            color: #333; /* GitHub color on hover */
+        }
+        
 
 .email{
     @media (max-width: $sm),(max-width: $md) {
